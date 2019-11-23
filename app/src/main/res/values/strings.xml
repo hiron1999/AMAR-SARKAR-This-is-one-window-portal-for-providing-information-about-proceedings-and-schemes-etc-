@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">server_connect</string>
+
+    <string name="title">Users informations</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_text">go to map</string>
+    <string name="button_signin">Signup</string>
+    <string name="form_header">Enter informations</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone number</string>
+    <string name="email">email</string>
+    <string name="location">Current location</string>
+    <string name="postal">Area code</string>
+    <string name="location_helper">*Tap to fetch location</string>
+    <string name="sex">Sex:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="password">password</string>
+    <string name="password_helper">*password must include characters and numbers</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="notmatch_pass">password mot matching</string>
+    <string name="country">Country</string>
+    <string name="state">State</string>
+    <string name="helper">This field cannot be empty!</string>
+    <string name="dob">Date of birth</string>
+    <string name="dobhelp">*double tap to select date</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">LOGIN</string>
+    <string name="are_you_a_new_user">Are you a new user?</string>
+    <string name="or">Or</string>
+    <string name="phone_or_email">phone or email:</string>
+    <string name="signup_failed">Signup Failed!</string>
+    <string name="acc_exist_msg">This account alredy exist use another phon number and email or try login</string>
+    <string name="close">close</string>
+    <string name="ok">Ok</string>
+    <string name="helper_exist_msg">aledy exixt!</string>
+    <string name="login_process_title">Login in process</string>
+    <string name="wait_dilog">plese wait...</string>
+    <string name="creatAccount_dilog">Creating your account</string>
+    <string name="login_fail">Login failed!</string>
+    <string name="login_failmsg">Incorrect email/phone or password if you have not ant account Signup first</string>
+    <string name="share_nav">Share</string>
+    <string name="logout_nav">Logout</string>
+    <string name="setings_nav">Setings</string>
+    <string name="home_nav">Home</string>
+    <string name="profile_nav">Profile</string>
+    <string name="nav_open">Open navigation drawer</string>
+    <string name="nav_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout_alert_msg">Are you sure you want to log out?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="apply">Apply</string>
+    <string name="feedback_nav">Feedback</string>
+    <string name="setting_header">setings</string>
+    <string name="application_header">Your Applications</string>
+    <string name="signup_sucess">Signup Sucess</string>
+    <string name="about">About User</string>
+    <string name="profile_adress">Adress:</string>
+    <string name="time_stamp">Time stamp</string>
+</resources>

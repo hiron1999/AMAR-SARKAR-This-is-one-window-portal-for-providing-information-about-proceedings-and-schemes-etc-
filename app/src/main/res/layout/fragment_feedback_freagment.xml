@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".feedback_freagment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?android:colorBackground"
+        android:orientation="vertical">
+        <androidx.cardview.widget.CardView
+            android:layout_marginTop="60dp"
+            android:layout_width="340dp"
+            android:layout_height="500dp"
+            android:layout_gravity="center_horizontal|center_vertical">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+        <TextView
+            android:id="@+id/feedback_header"
+            android:layout_marginTop="12dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Please Give Your Feedback"
+          android:textColor="@android:color/holo_blue_dark"
+            android:layout_gravity="center_horizontal"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+           <com.google.android.material.textfield.TextInputLayout
+              android:id="@+id/feedback_text"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="12dp"
+              app:counterEnabled="true"
+               app:counterMaxLength="200"
+               app:counterOverflowTextAppearance="@android:color/holo_red_dark"
+android:hint="Enter your exprience and explain any problem you face when using this app\nText limit maximum 200 leters"
+
+               >
+               <EditText
+                   android:layout_width="match_parent"
+                   android:layout_height="200dp"
+                   android:inputType="textMultiLine"
+                   />
+
+
+           </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/feedback_submit"
+        android:layout_width="272dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button_back"
+        android:backgroundTint="@android:color/holo_blue_dark"
+        android:elevation="4dp"
+        android:gravity="center_horizontal|center_vertical"
+
+        android:soundEffectsEnabled="true"
+        android:text="Submit"
+        android:textAlignment="gravity"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:stateListAnimator="@null"
+
+        android:textColor="@android:color/white"
+        tools:ignore="MissingConstraints" />
+</LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+</FrameLayout>
