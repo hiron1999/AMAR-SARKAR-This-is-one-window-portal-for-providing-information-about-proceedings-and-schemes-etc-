@@ -56,7 +56,7 @@ Book Dash is an Android App which connect with a server fetch data and stores us
  		</div>
  	<div class="col-md-3 col-sm-6">
  			<div class="thumbnail">
- 			<img src="screenshort/9.jpg" alt="phone image" width="200px" >
+ 			<img src="screenshort/9.png" alt="phone image" width="200px" >
  			<div class="caption"><h3>Navbar</h3>		</div>
  			</div>
  		</div>
