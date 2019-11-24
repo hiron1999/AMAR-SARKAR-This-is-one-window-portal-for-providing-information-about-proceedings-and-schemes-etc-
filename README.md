@@ -23,9 +23,65 @@ Book Dash is an Android App which connect with a server fetch data and stores us
 
 
 # Screenshots
-<img src="art/booklisting.jpg" alt="phone image" width="200px" />
-<img src="art/bookdetail.jpg" alt="phone image" width="200px" />
-<img src="art/reading_book.jpg" alt="phone image" width="400px" />
+ <div class="row">
+ 	<div class="col-md-3 col-sm-6">
+ 			<div class="thumbnail">
+ 			<img src="screenshort/2.jpg" alt="phone image" width="200px" >
+ 			<div class="caption"><h3>Starting</h3>		</div>
+ 			</div>
+ 		</div>
+ 	<div class="col-md-3 col-sm-6">
+ 			<div class="thumbnail">
+ 			<img src="screenshort/1.jpg" alt="phone image" width="200px" >
+ 			<div class="caption"><h3>Login</h3>		</div>
+ 			</div>
+ 		</div>
+ 	<div class="col-md-3 col-sm-6">
+ 			<div class="thumbnail">
+ 			<img src="screenshort/8.jpg" alt="phone image" width="200px" >
+ 			<div class="caption"><h3>Signup</h3>		</div>
+ 			</div>
+ 		</div>
+ 	<div class="col-md-3 col-sm-6">
+ 			<div class="thumbnail">
+ 			<img src="screenshort/4.jpg" alt="phone image" width="200px" >
+ 			<div class="caption"><h3>Loarding</h3>		</div>
+ 			</div>
+ 		</div>
+ 	<div class="col-md-3 col-sm-6">
+ 			<div class="thumbnail">
+ 			<img src="screenshort/5.jpg" alt="phone image" width="200px" >
+ 			<div class="caption"><h3>Home</h3>		</div>
+ 			</div>
+ 		</div>
+ 	<div class="col-md-3 col-sm-6">
+ 			<div class="thumbnail">
+ 			<img src="screenshort/9.jpg" alt="phone image" width="200px" >
+ 			<div class="caption"><h3>Navbar</h3>		</div>
+ 			</div>
+ 		</div>
+ 	<div class="col-md-3 col-sm-6">
+ 			<div class="thumbnail">
+ 			<img src="screenshort/6.jpg" alt="phone image" width="200px" >
+ 			<div class="caption"><h3>Profile</h3>		</div>
+ 			</div>
+ 		</div>
+ 	<div class="col-md-3 col-sm-6">
+ 			<div class="thumbnail">
+ 			<img src="screenshort/3.jpg" alt="phone image" width="200px" >
+ 			<div class="caption"><h3>Seting</h3>		</div>
+ 			</div>
+ 		</div>
+ 	<div class="col-md-3 col-sm-6">
+ 			<div class="thumbnail">
+ 			<img src="screenshort/7.jpg" alt="phone image" width="200px" >
+ 			<div class="caption"><h3>Language Option</h3>		</div>
+ 			</div>
+ 		</div>
+
+</div>
+
+
 
 
 
