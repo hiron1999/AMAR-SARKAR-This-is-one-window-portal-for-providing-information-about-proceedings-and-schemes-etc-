@@ -19,6 +19,8 @@ Book Dash is an Android App which connect with a server fetch data and stores us
 
 6.Share app  in whatsaap,fb,massage,e_mail etc.
 
+7.Multi language feature
+
 
 # Screenshots
 <img src="art/booklisting.jpg" alt="phone image" width="200px" />
