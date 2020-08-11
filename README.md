@@ -3,7 +3,7 @@
 
 
 
-Book Dash is an Android App which connect with a server fetch data and stores user information in the database.
+
 
 # Freatures
 
